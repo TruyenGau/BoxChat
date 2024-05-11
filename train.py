@@ -133,4 +133,4 @@ torch.save(data, FILE)
 print(f'training complete. file saved to {FILE}')
 
 
-#sdfsdfsdfsdfsdfsdfsdsd
+#truyendep trai
